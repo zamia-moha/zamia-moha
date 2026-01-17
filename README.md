@@ -1,16 +1,86 @@
-## Hi there 👋
+<p align="center">
+  <img src="profile.jpg" width="200" style="border-radius:50%" />
+</p>
 
-<!--
-**zamia-moha/zamia-moha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌸 Zamia Mohamett Ibrahiim 🌸</h1>
+<h3 align="center">Full Stack Developer | Mobile App Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamia-moha&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💖 About Me
+
+- 👩‍💻 I'm a **Software Developer**
+- 🌱 I'm learning and building **Web & Mobile Applications**
+- 💡 I love **clean UI, beautiful designs, and smart systems**
+- 🚀 My dream is to become a **Professional Developer**
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,nodejs,express,flutter,git,github" />
+</p>
+
+---
+
+## 📦 My Projects
+
+### 🏥 Pharmacy Management System
+> A system to manage:
+- ✅ Medicines
+- ✅ Sales
+- ✅ Stock
+- ✅ Users
+- ✅ Reports
+
+**Technologies:**
+- PHP / Java / or Node.js
+- HTML, CSS, JavaScript
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zamia-moha&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zamia-moha&show_icons=true&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamia-moha&theme=rose_pine" />
+</p>
+
+---
+
+## 🌸 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamia-moha&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## 🎯 My Goals
+
+- 🌟 Become a professional developer
+- 🌟 Build real systems
+- 🌟 Create beautiful applications
+- 🌟 Work on big projects
+
+---
+
+<p align="center">
+  💖 Thank you for visiting my profile 💖
+</p>
