@@ -23,7 +23,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,git,github" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 - ✅ Reports
 
 **Technologies:**
-- PHP / Java / or Node.js
+- PHP / Java / 
 - HTML, CSS, JavaScript
 
 ---
