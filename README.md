@@ -23,7 +23,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,nodejs,express,flutter,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css,git,github" />
 </p>
 
 ---
